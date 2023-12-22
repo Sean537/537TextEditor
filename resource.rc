@@ -1,0 +1,18 @@
+#include "537text.h"
+
+MAINMENU MENU 
+{
+ POPUP "&文件"
+ {
+  MENUITEM "&打开...", CM_FILE_OPEN
+  MENUITEM "&保存", CM_FILE_SAVEAS
+  MENUITEM "&退出", CM_FILE_EXIT
+ }
+
+ POPUP "&帮助"
+ {
+  MENUITEM "&帮助", CM_HELP 
+  MENUITEM "&关于...", CM_ABOUT
+ }
+}
+
