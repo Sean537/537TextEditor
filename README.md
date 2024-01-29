@@ -1,4 +1,4 @@
-# 537文本编辑器（537 Text Editer）
+# 537文本编辑器（537 Text Editor）
 <h3>这是537工作室开源的“537文本编辑器”1.3版本（32位）源代码。</h3>
 <h4>537工作室官方网站：<a href="https://www.537studio.com" target="_blank">https://www.537studio.com</a>。大家可以在我们的官方网站上获取537文本编辑器的最新版本。</h4>
 <h2>软件介绍：</h2>
